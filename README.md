@@ -33,4 +33,4 @@ Cliente é uma subclasse de Pessoa, uma especialização, tem os atributos para 
 ## Desenvolvimento do Cardápio da <This.Pizza.Club>.
 Na elaboração do cardápio, foi utilizado um ArrayList do tipo String para apresentar as pizzas. Nesse caso, a partir das escolhas que o usuário faz o programa cria uma outra ArrayList contendo as escolhas de sabores para que no final do programa seja apresentado como uma lista. Em caso do usuário digitar um valor que não foi esperado, temos as validações e o uso do Try e Catch para tratar do mesmo.
 
-
+Para assistir a apresentação em slide: [clique aqui](https://www.canva.com/design/DAE3VMTIIxI/NUgpuWbHJJupW9HoxGRW9g/view?utm_content=DAE3VMTIIxI&utm_campaign=designshare&utm_medium=link&utm_source=publishpresent).
